@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'ecommerce',
+  appId: 'io.saytong.booking',
+  appName: 'TONG BOOKING',
   webDir: 'www',
   bundledWebRuntime: false
 };
